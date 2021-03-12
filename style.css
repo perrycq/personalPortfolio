@@ -1,0 +1,30 @@
+/* Body */
+
+body{
+    background-color: #23282E;
+    color: #FFFFFF
+}
+
+/* Navigation */
+
+nav li {
+    list-style: none;
+}
+
+/* Header and Photo */
+.container {
+    display: flex;
+}
+
+h1 {
+    color: #FFFFFF
+}
+
+h1 span {
+    color: #33FFA8;
+}
+
+#profilePicture {
+    border-radius: 50%;
+    /* box-shadow: 5px 5px 20px #333333; */
+}
